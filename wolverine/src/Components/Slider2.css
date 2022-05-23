@@ -1,0 +1,12 @@
+.cliderImg2 {
+    height: 70vh;
+    width: 100%;
+    /* padding-bottom: -100rem; */
+}
+
+
+.cliderImg2 img {
+    height: 60%;
+    object-fit: cover;
+
+}

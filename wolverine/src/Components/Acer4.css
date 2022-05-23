@@ -1,0 +1,10 @@
+.Acer4 {
+    height: 35vh;
+    width: 100%;
+}
+
+
+.Acer4 img {
+    height: 100%;
+    object-fit: contain;
+}

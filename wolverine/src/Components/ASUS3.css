@@ -1,0 +1,10 @@
+.ASUS2 {
+    height: 35vh;
+    width: 100%;
+}
+
+
+.ASUS2 img {
+    height: 100%;
+    object-fit: contain;
+}

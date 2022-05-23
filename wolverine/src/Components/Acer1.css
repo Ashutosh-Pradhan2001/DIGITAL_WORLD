@@ -1,0 +1,10 @@
+.HP1 {
+    height: 35vh;
+    width: 100%;
+}
+
+
+.HP1 img {
+    height: 100%;
+    object-fit: contain;
+}

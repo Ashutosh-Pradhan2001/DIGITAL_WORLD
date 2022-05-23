@@ -1,0 +1,10 @@
+.HP3 {
+    height: 35vh;
+    width: 100%;
+}
+
+
+.HP3 img {
+    height: 100%;
+    object-fit: contain;
+}

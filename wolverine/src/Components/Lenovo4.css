@@ -1,0 +1,10 @@
+.Lenovo4 {
+    height: 35vh;
+    width: 100%;
+}
+
+
+.Lenovo4 img {
+    height: 100%;
+    object-fit: contain;
+}

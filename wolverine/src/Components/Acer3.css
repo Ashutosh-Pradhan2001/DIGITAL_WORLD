@@ -1,0 +1,10 @@
+.Acer3 {
+    height: 35vh;
+    width: 100%;
+}
+
+
+.Acer3 img {
+    height: 100%;
+    object-fit: contain;
+}

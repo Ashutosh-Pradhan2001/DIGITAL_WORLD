@@ -1,0 +1,10 @@
+.cliderImg {
+    height: 70vh;
+    width: 100%;
+}
+
+
+.cliderImg img {
+    height: 100%;
+    object-fit: cover;
+}

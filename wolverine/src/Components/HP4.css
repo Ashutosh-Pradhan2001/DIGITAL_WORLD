@@ -1,0 +1,10 @@
+.HP4 {
+    height: 35vh;
+    width: 100%;
+}
+
+
+.HP4 img {
+    height: 100%;
+    object-fit: contain;
+}
